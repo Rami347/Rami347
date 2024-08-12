@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -50,15 +50,8 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,firebase,github,html,java,js,mysql,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,php,figma,androidstudio,firebase,github,html,java,cs,kotlin,js,mysql,nodejs,py,eclipse,sublime,vscode&perline=14" />
   </a>
 </p>
 
 
-
-
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
