@@ -54,4 +54,11 @@
   </a>
 </p>
 
+ <!-- WIDGETS-->
+  ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Rami347&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami347&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rami347&theme=dark)
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rami347&theme=react-dark)
+
+
 
